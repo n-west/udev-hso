@@ -1,6 +1,5 @@
 
 
-
 OBJS = ozerocdoff.o
 
 all: ozerocdoff
